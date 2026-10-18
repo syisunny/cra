@@ -1,0 +1,19 @@
+﻿# TechHealth Strategic Roadmap: Q3
+---
+## Initiative 1
+
+
+### Strategic Initiative Title:
+< Enter your business-focused title here. >
+
+
+### Business Justification:
+< Enter your 2-3 sentence executive justification here. >
+
+
+### Alignment to Resilience Objectives:
+< Enter the ISO standards this initiative aligns with. >
+
+
+### Key Controls Addressed:
+< List the specific control IDs from the report that this initiative will fix. >
